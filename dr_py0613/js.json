@@ -1,4 +1,4 @@
-{"spider":"https://js.134584.xyz/test/f.jar",
+{"spider":"http://js.134584.xyz/test/f.jar",
  "sites":[
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/liaocao88/cool/dr_py0613/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liaocao88/cool/dr_py0613/js/好趣网.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://fastly.jsdelivr.net/gh/liaocao88/cool/dr_py0613/lib/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/liaocao88/cool/dr_py0613/js/drpy.js"},
